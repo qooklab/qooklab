@@ -1,16 +1,5 @@
 ### Hi there 👋🐑🐑🐑🐑🐑
 
-### HackerThon 
-#### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
-#### Sample
-| 구&nbsp;&nbsp;분 | Git Hub | URL |
-|:--------:|:-----:|:-----:|
-|Java tomcat  Server Sample|<a href="https://github.com/ittapa/2411-BackEnd_java" target="_blank">Link</a>|<a href="https://jweb.qook.io" target="_blank">Link</a>|
-|NODE JS Server Sample|<a href="https://github.com/ittapa/2411-BackEnd_js" target="_blank">Link</a>|<a href="https://jsweb.qook.io" target="_blank">Link</a>|
-- AWS EC2 linux Server / Oracle CLoud compute (mysql)
-- ngnix ssl, port 포워딩
-<br/>
-
 ### Work Experience 
 | 기&nbsp;&nbsp;간 | 소&nbsp;&nbsp;속 | 부&nbsp;&nbsp;서 | 직&nbsp;&nbsp;무 | 사용기술  |
 |:------:|:----:|:-------:|:-------:|:-------:|
@@ -37,6 +26,16 @@
 - 인공지능 스피커 만들기
 - 메이커 워크샵
 
+### HackerThon ready
+#### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
+#### Sample
+| 구&nbsp;&nbsp;분 | Git Hub | URL |
+|:--------:|:-----:|:-----:|
+|Java tomcat  Server Sample|<a href="https://github.com/ittapa/2411-BackEnd_java" target="_blank">Link</a>|<a href="https://jweb.qook.io" target="_blank">Link</a>|
+|NODE JS Server Sample|<a href="https://github.com/ittapa/2411-BackEnd_js" target="_blank">Link</a>|<a href="https://jsweb.qook.io" target="_blank">Link</a>|
+- AWS EC2 linux Server / Oracle CLoud compute (mysql)
+- ngnix ssl, port 포워딩
+<br/>
 
 
 <!--
